@@ -15,33 +15,101 @@ En búsqueda de un equipo y oportunidad donde pueda poner en práctica mis conoc
 
 ### Lenguajes y herramientas:
 
-<div>
-<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<sppan> Visual Studio Code </span>
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<label> HTML5 </label>
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<label> CSS3 </label>
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<label> JavaScript </label>
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<label> React </label>
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<label> Node.js </label>
-<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<label> SQL </label>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<label> MySQL </label>
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<label> Git </label>
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<label> GitHub </label>
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40"/>
+        </a>
+        <br>TypeScript
+    </td>
+    
+</table>
 
+### Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+      </a>
+      <br>ReactJS & React Native
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </a>
+      <br>Express
+    </td>
+    
+</table>
+
+### Markup & Stylesheet
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+
+</table>
+
+### Databases
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+            </a>
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="./firebasepng.png" width="40"/>
+            </a>
+            <br>Firebase
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            </a>
+            <br>MySQL
+        </td>
+
+</table>
 <br />
 
-<br />
 <h3>Contactame</h3>
 <br/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eugenioqur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eugenioquiroga//)   <a href = "mailto: eugequr@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>
+Email: eugequr@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/eugenioquiroga/
