@@ -19,7 +19,7 @@ En búsqueda de un equipo y oportunidad donde pueda poner en práctica mis conoc
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>
       </a>
       <br>JavaScript
     </td>
@@ -38,13 +38,13 @@ En búsqueda de un equipo y oportunidad donde pueda poner en práctica mis conoc
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
       </a>
       <br>ReactJS & React Native
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40"/>
       </a>
       <br>NodeJS
     </td>
@@ -69,13 +69,13 @@ En búsqueda de un equipo y oportunidad donde pueda poner en práctica mis conoc
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40"/>
       </a>
       <br>CSS
     </td>
